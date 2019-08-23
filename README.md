@@ -2,10 +2,10 @@
 csh to bash script converter - work in progress.
 
 ## Supported constructs:
-  - comments
-  - echo
-  - setenv
-  - set path
+  - comment   => comment
+  - echo      => echo
+  - setenv    => export env variable
+  - set path  => export PATH variable
   
 ## ToDo:
   - conditionals
